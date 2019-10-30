@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<Fragment>
+  <Header />
+  <Character
+    img="/path/image"
+    name="Rick"
+    species="Human"
+  />
+  <Character
+    img="/path/image"
+    name="Beth"
+    species="Human"
+  />
+  <Character
+    img="/path/image"
+    name="jerry"
+    species="Human"
+  />
+  <Character
+    img="/path/image"
+    name="mecese"
+    species="mecese"
+  />
+  <Character
+    img="/path/image"
+    name="morty"
+    species="morty"
+  />
+  <Character
+    img="/path/image"
+    name="goomonster"
+    species="goomonster"
+  />
+  <Character
+    img="/path/image"
+    name="bernie"
+    species="bernie"
+  />
+  <Character
+    img="/path/image"
+    name="pickles"
+    species="pickles"
+  />
+  <Character
+    img="/path/image"
+    name="pickles"
+    species="goomonster"
+  />
+  <Character
+    img="/path/image"
+    name="summer"
+    species="summer"
+  />
+  <Character
+    img="/path/image"
+    name="Mr Poopy Butthole"
+    species="alien"
+  />
+  <Header />
+</Fragment>
+`;
